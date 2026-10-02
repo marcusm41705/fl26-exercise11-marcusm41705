@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+bb69062b4777e08f246cf5125d3af140 CMakeFiles/trafficlight_autogen

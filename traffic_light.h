@@ -11,7 +11,7 @@ class TrafficLight: public QWidget{
 
 public:
   TrafficLight(QWidget * parent = nullptr);
-
+ void light_update();
 private:
   QRadioButton * redlight;
   QRadioButton * yellowlight;
